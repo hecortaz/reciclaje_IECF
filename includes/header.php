@@ -12,10 +12,14 @@ session_start();
     <script src="js/charts.js"></script>
 </head>
 <body>
+    <!-- Logo de fondo (watermark) -->
+    <div class="logo-background"></div>
+    
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
-                🔄 Gestión de Reciclaje
+                <img src="images/logo-iecf.svg" alt="Logo IECF Bello" class="logo-header">
+                <span class="logo-text">🔄 Gestión de Reciclaje</span>
             </div>
             <ul class="nav-menu">
                 <li><a href="index.php" class="nav-link">Inicio</a></li>
