@@ -9,6 +9,7 @@ session_start();
     <title>Gestión de Reciclaje</title>
     <link rel="stylesheet" href="css/styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="js/charts.js"></script>
 </head>
 <body>
     <nav class="navbar">
